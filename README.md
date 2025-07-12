@@ -29,3 +29,12 @@ Operator in Java is a symbol that is used to perform operations. For example: ` 
 There are many types of operators in Java which are given below:
 
 ` Unary, Arithmetic, Shift, Relational, Bitwise, Logical, Ternary and Assignment Operator. `
+
+## **Arrays**
+Arrays are used to store multiple values of same data type in a single variable.
+>  In lower-level programming languages like `C` and `Java`, Arrays have a `fixed length`, elements cannot be removed or inserted.
+>
+>  Whereas for high-level programming languages like `Python` or `JavaScript`, where arrays are `dynamic`, which means you can easily remove and insert elements.
+
+
+In Java `ArrayList` acts as a dynamic array because it can automatically grow or shrink in size as elements are added or removed.
